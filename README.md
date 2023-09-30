@@ -9,21 +9,12 @@ A simple network scanner tool built using Python and Scapy. This tool can scan n
 
 ### Installation
 
-1. Clone this repository:
-```
-git clone <repository-url>
-```
-
-2. Navigate to the directory:
-```
-cd <repository-name>
-```
-
 3. Install the required libraries:
 ```
-pip install -r requirements.txt
+pip install scapy
+
 ```
-(Note: The `requirements.txt` file should have `scapy` listed.)
+
 
 ### Usage
 
